@@ -1,6 +1,6 @@
 {
   "name": "@srouse/Figma-Design-System-Widget-Sandbox",
-  "version": "v0.0.0",
+  "version": "v0.0.1",
   "main": "index.js",
   "repository": "git@github.com:srouse/Figma-Design-System-Widget-Sandbox.git",
   "dependencies": {
